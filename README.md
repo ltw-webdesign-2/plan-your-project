@@ -21,7 +21,7 @@ Create all these subdeliverables and put them together into a PDF for submission
 1. **Content inventory:** A table showing the content for each page: text, images, video, etc.; where you’ll get it, etc.
 1. **Sitemap:** Include all 3+ pages & how they’re connected together.
 1. **Wireframes:** 3 sizes (small, medium, large) for each of the 3 pages: minimum 9 wireframes.
-  <br>Simple content prioritized grey boxes works well, even just paper sketches.
+  Simple content prioritized grey boxes works well, even just paper sketches.
 1. **A logo:** Must work well (or adapt to) these sizes:
     - `256px` wide, height whatever — your primary logo, displaying on the website
     - `64px` square — for mobile screens, social profile photos, bookmarks, etc.

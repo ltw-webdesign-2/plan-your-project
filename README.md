@@ -23,9 +23,9 @@ Create all these subdeliverables and put them together into a PDF for submission
 1. **Wireframes:** 3 sizes (small, medium, large) for each of the 3 pages: minimum 9 wireframes.
   Simple content prioritized grey boxes works well, even just paper sketches.
 1. **A logo:** Must work well (or adapt to) these sizes:
-    - `256px` wide, height whatever — your primary logo, displaying on the website
+    - `256px` wide, height whatever — your primary logo, displaying on the website
     - `64px` square — for mobile screens, social profile photos, bookmarks, etc.
-    - `32px`, `16px` square — for favicons.
+    - `32px`, `16px` square — for favicons.
 1. **Visual design/moodboard:** Type & type scale, colours, sample components (buttons, cards, etc.), consider accessibility & performance when making decisions; Do some sample patterns in Illustrator/Photoshop/XD to give your coding direction.
 
 ------
